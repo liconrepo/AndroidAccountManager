@@ -1,6 +1,26 @@
 <resources>
-    <string name="app_name">My Applicationqq</string>
+    <string name="app_name">Account Manager Sample</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- authentication buttons -->
+    <string name="button_add_acc">Add Account</string>
+    <string name="button_get_auth_token">Get authentication token</string>
+    <string name="button_get_auth_token_feature">Get authentication token by feature</string>
+    <string name="button_invalidate_token">Invalidate token</string>
+
+    <string name="signup_title">Create new account</string>
+    <string name="login_label">Log in</string>
+    <string name="settings_label">Licon</string>
+
+    <!-- sign up / sign in -->
+    <string name="text_name">Name</string>
+    <string name="text_email">Email address</string>
+    <string name="text_password">Password</string>
+    <string name="text_new_user">New user? Click here to sign up.</string>
+    <string name="text_already_user">Already a member?</string>
+    <string name="button_signin">Sign in</string>
+    <string name="button_signup">Sign up</string>
+
 </resources>

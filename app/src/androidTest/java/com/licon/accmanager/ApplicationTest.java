@@ -1,4 +1,4 @@
-package com.licon.myapplicationqq;
+package com.licon.accmanager;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
