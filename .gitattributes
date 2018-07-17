@@ -1,3 +1,1 @@
-app/libs* linguist-vendored
-app/src/androidTest/java/com/licon/accmanager* linguist-vendored
 app/src/main/java/com/licon/accmanager* linguist-vendored
